@@ -1,0 +1,8 @@
+DarkRAD
+by Remerico Cruz
+7:22 PM 2/2/2005
+
+DarkRAD is an graphical Rapid Adventure Development Game engine created in Visual Basic. It features a first person view, point-and-click gameplay, just like most old-school adventure games. It is currently under development, but so far it supports sound, graphical effects and game programming with the easy to use built-in programming language called DialogScript. The Engine also includes an intuitive game editor to help you create graphical adventure games.
+
+
+NOTE: There is a sample adventure game included, "sampol.adv", to get you started.
